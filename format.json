@@ -1,0 +1,14 @@
+{
+    "name" : {
+        "firstName" : "Rohit",
+        "lastName" : "Prasad"
+    },
+    "age" : 35,
+    "address" : {
+        "line1" : "A/6 Raheja Corp",
+        "line2" : "Powai",
+        "city" : "Mumbai",
+        "state" : "Maharashtra"
+    },
+    "gender" : "Male"
+}
